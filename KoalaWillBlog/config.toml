@@ -1,0 +1,5 @@
+baseURL = 'https://KoalaWill.github.io/'
+languageCode = 'en-us'
+title = 'koalaWill'
+
+theme = 'hugo-theme-massively'
